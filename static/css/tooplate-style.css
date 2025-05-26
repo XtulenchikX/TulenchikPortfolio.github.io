@@ -420,7 +420,7 @@ button:hover {
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .service-item p {
